@@ -1,5 +1,5 @@
-# Apple
-My first big website date 2018
+# Apple (release 2018 december)
+My first big website 
 
 demo: https://nurlykhan06.github.io/projects/Apple/index.html
 and choose language and click cancel :)
